@@ -7,7 +7,6 @@ public class Intervention {
     private Date debut;
     private int duree;
     private Boolean annulee = false;
-    //private int heureDebut;
     private Salle salle;
     private TypeIntervention type;
     private Enseignant enseignant;
